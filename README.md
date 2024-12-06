@@ -25,6 +25,7 @@ Gestión de Cursos y Actividades:
 
 Los administradores podrán crear y gestionar cursos y actividades.
 Los usuarios podrán visualizar contenido asociado a los cursos en los que estén inscritos.
+
 Entrega de Tareas:
 
 Sistema para que los usuarios puedan subir archivos o completar actividades asignadas.
@@ -69,10 +70,10 @@ Recolección de requisitos y diseño de la arquitectura del sistema.
 Bocetos o wireframes de las pantallas principales.
 Fase de Desarrollo:
 
-Semana 1: Configuración inicial del backend y frontend, implementación del sistema de autenticación.
-Semana 2: Desarrollo de los módulos de cursos y actividades.
-Semana 3: Implementación de la sección de noticias.
-Semana 4: Integración de frontend y backend, pruebas iniciales.
+Diseño Etapa 1: Configuración inicial del backend y frontend, implementación del sistema de autenticación.
+Diseño Etapa 2: Desarrollo de los módulos de cursos y actividades.
+Diseño Etapa 3: Implementación de la sección de noticias.
+Diseño Etapa 4: Integración de frontend y backend, pruebas iniciales.
 Fase de Pruebas:
 
 Pruebas de funcionalidad, rendimiento y corrección de errores.
@@ -92,15 +93,16 @@ Equipo de Trabajo:
 Backend Developer(s): Configuración del servidor y creación de endpoints.
 Frontend Developer(s): Diseño e implementación de la interfaz de usuario.
 QA Tester(s): Pruebas del sistema.
+
 Infraestructura:
 
 Base de datos PostgreSQL (local durante el desarrollo, remota en producción).
-Servicio de hosting para el despliegue (Heroku o similares).
+Servicio de hosting para el despliegue.
 ___
 # Roles en el Equipo
-Project Manager: Supervisión general y planificación de tareas.
-Backend Developer: Implementación de funcionalidades en Django y DRF.
-Frontend Developer: Diseño e interacción en React.
-Tester: Validación de las funcionalidades y experiencia de usuario.
+- **Project Manager**: Supervisión general y planificación de tareas.
+- **Backend Developer**: Implementación de funcionalidades en Django y DRF.
+- **Frontend Developer**: Diseño e interacción en React.
+- **Tester**: Validación de las funcionalidades y experiencia de usuario.
 ___
-Este proyecto no solo permitirá gestionar eficientemente el contenido del club, sino que también servirá como una oportunidad de aprendizaje y práctica en tecnologías modernas como Django, Django REST Framework y React. La colaboración entre los miembros del equipo será clave para garantizar el éxito del proyecto.
+Este proyecto no solo permitirá gestionar eficientemente el contenido del club, sino que también servirá como una oportunidad de aprendizaje y práctica en tecnologías modernas como Django, Django REST Framework y React.
